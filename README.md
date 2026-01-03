@@ -22,7 +22,7 @@ Hi, I'm **Gia**! I'm an undergraduate at UC Berkeley crafting my journey towards
 
 💧 _The Saheli Project_ - <https://thesaheliproject.my.canva.site/>
 
-# Always Connecting...
+# Always Connecting!
 
 I welcome conversation and collaboration with open arms! Contact me here:
 
