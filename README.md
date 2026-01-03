@@ -8,19 +8,19 @@ Hi, I'm **Gia**! I'm an undergraduate at UC Berkeley crafting my journey towards
 
 🧬 _Fetal Airway + Lung Organoids_ - helping develop stem-cell–derived models of the fetal airway @ **UC San Diego School of Medicine** to study surfactant biology and viral infection.
 
-👶 _Clinical Learning_ — assisting in NICU and labor + delivery care settings to stay grounded in the realities families experience.
+👶 _Clinical Learning_ - assisting in NICU and labor + delivery care settings to stay grounded in the realities families experience.
 
 ## Previously...
 
-🩸 _Maternal–Fetal & Placental Biology_ — investigated & quanitfied Fe metabolism and infection affects in placental and fetal transmitted disease outcomes @ **UC San Francisco (UCSF)**.
+🩸 _Maternal–Fetal & Placental Biology_ - investigated & quanitfied Fe metabolism and infection affects in placental and fetal transmitted disease outcomes @ **UC San Francisco (UCSF)**.
 
-🧪 _Industry-Side Translational Work_ — Prev RA 1 @ **Novome Biotechnologies** | https://www.science.org/doi/10.1126/science.adu8000
+🧪 _Industry-Side Translational Work_ - Prev RA 1 @ **Novome Biotechnologies** | https://www.science.org/doi/10.1126/science.adu8000
 
 ## Building...
 
-🚼 _NeoNurture_ — a dual-sided, AI-enabled care-coordination platform for the NICU, providing clinician-reviewed communication workflows and longitudinal, family-facing care-navigation tools.
+🚼 _NeoNurture_ - a dual-sided, AI-enabled care-coordination platform for the NICU, providing clinician-reviewed communication workflows and longitudinal, family-facing care-navigation tools.
 
-💧 _The Saheli Project_ — <https://thesaheliproject.my.canva.site/>
+💧 _The Saheli Project_ - <https://thesaheliproject.my.canva.site/>
 
 # Always Connecting...
 
