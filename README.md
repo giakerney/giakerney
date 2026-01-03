@@ -12,7 +12,7 @@ Hi, I'm **Gia**! I'm an undergraduate at UC Berkeley crafting my journey towards
 
 ## Previously...
 
-🩸 _Maternal–Fetal & Placental Biology_ - investigated & quanitfied Fe metabolism and infection affects in placental and fetal transmitted disease outcomes @ **UC San Francisco (UCSF)**.
+🩸 _Maternal-Fetal & Placental Biology_ - investigated & quanitfied Fe metabolism and infection affects in placental and fetal transmitted disease outcomes @ **UC San Francisco (UCSF)**.
 
 🧪 _Industry-Side Translational Work_ - Prev RA 1 @ **Novome Biotechnologies** | https://www.science.org/doi/10.1126/science.adu8000
 
