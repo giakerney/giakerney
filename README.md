@@ -4,17 +4,17 @@ Hi, I'm **Gia**! I'm an undergraduate at UC Berkeley crafting my journey towards
 
 ## Working On...
 
-🫁 _Neonatal Lung Development_ - studying single-cell and single-nucleus RNA-seq data @ NHBLI + Harvard Medical School to better understand premature lung injury and repair mechanisms, creating a full stack transcriptome pipeline.
+🫁 _Neonatal Lung Development_ - studying single-cell and single-nucleus RNA-seq data @ **NHBLI + Harvard Medical School** to better understand premature lung injury and repair mechanisms, creating a full stack transcriptome pipeline.
 
-🧬 _Fetal Airway + Lung Organoids_ - helping develop stem-cell–derived models of the fetal airway @ UC San Diego School of Medicine to study surfactant biology and viral infection.
+🧬 _Fetal Airway + Lung Organoids_ - helping develop stem-cell–derived models of the fetal airway @ **UC San Diego School of Medicine** to study surfactant biology and viral infection.
 
 👶 _Clinical Learning_ — assisting in NICU and labor + delivery care settings to stay grounded in the realities families experience.
 
 ## Previously...
 
-🩸 _Maternal–Fetal & Placental Biology_ — investigated & quanitfied Fe metabolism and infection affects in placental and fetal transmitted disease outcomes @ UCSF.
+🩸 _Maternal–Fetal & Placental Biology_ — investigated & quanitfied Fe metabolism and infection affects in placental and fetal transmitted disease outcomes @ **UC San Francisco (UCSF)**.
 
-🧪 _Industry-Side Translational Work_ — Prev RA 1 @ Novome Biotechnologies | https://www.science.org/doi/10.1126/science.adu8000
+🧪 _Industry-Side Translational Work_ — Prev RA 1 @ **Novome Biotechnologies** | https://www.science.org/doi/10.1126/science.adu8000
 
 ## Building...
 
